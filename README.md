@@ -39,13 +39,17 @@ For the purpose of 3D printing the system has been simplified. The resultant sca
 
 It is possible to print the default components but the system has also been designed with parametric settings. 
 
-> [Download here the Grasshopper definition](https://github.com/angelpontes/PFC/PARAMETRIC DESIGN/HEX PARAMETRIC SYSTEM v1 FOR 3D PRINTING IN MILLIMETERS.gh "GH Sheet")
+> [Download here the Grasshopper definition](https://github.com/angelpontes/PFC/blob/master/PARAMETRIC%20DESIGN/HEX%20PARAMETRIC%20SYSTEM%20v1%20FOR%203D%20PRINTING%20IN%20MILLIMETERS.gh?raw=true "GH Sheet")
 
 Opening the GH sheet with [Grasshopper for Rhino](http://www.grasshopper3d.com/ "Grasshopper for Rhino") allows to change the variable parameters in which the system is based to set up new configurations.
 
-Once all the parameters have been modified the file GH produce the 2D and 3D components required for the digital fabrication. While the 2D hexagonal grid could be cut by laser, the 3D components have to be printed. The defined model unit is millimeter.
+Once all the parameters have been modified the file GH produce the 2D and 3D components required for the digital fabrication. While the 2D hexagonal grid could be cut by laser, the 3D components have to be printed.
 
-Weaver Bird plugin for GH have to be installed. Lunchbox plugin for GH should be installed to bake the files with the default variables.
+Lunchbox plugin for GH should be installed to bake the files with the default variables.
+
+Weaver Bird plugin for GH have to be installed to run the definition.
+
+The defined model unit is millimeter.
 
 
 ##  + Notes
