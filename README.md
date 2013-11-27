@@ -23,7 +23,7 @@ Please do not hesitate to [contact me](mailto:angelpontesgarcia@gmail.com "angel
 
 More info about the project in [angelpontes.net](http://pfc.angelpontes.net "angelpontes.net").
 
-<a href="http://pfc.angelpontes.net/" title="angelpontes.net"><img src="/IMAGES/LOGO.png" width="500" height="500" alt="LOGO" title="PROJECT LOGO"></a>
+<a href="http://pfc.angelpontes.net/" title="angelpontes.net"><img src="/IMAGES/LOGO.png" alt="LOGO" title="PROJECT LOGO"></a>
 
 
 ##  2. Construction system
