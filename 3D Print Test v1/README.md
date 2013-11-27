@@ -1,6 +1,4 @@
-# 3D DEFAULT COMPONENTS
-
-Printed with RepRap Huxley [reprap.org](http://reprap.org/wiki/Huxley "reprap.org"). 
+# 3D COMPONENTS v1
 
 The assembly of these pieces build a set of 2x2 hexagonal *'umbrellas'* for a two-storey building configuration.
 
@@ -8,3 +6,7 @@ The assembly of these pieces build a set of 2x2 hexagonal *'umbrellas'* for a tw
 ###### 2. Hex Beams (x8)
 ###### 3. Hex Slab Floor (x4)
 ###### 4. Hex Roof Deck (x4)
+
+<a href="http://blog.angelpontes.net/post/68259941552/20131126-3d-print-colaboratorio" title="Blog"><img src="https://github.com/angelpontes/PFC/blob/master/IMAGES/3D-PRINT-TEST-v1.jpg?raw=true" alt="TEST v1" title="TEST v1"></a>
+
+3D Printing with [RepRap Huxley](http://reprap.org/wiki/Huxley "reprap.org") in [Colaboratorio](http://colaboratorio.colaborativa.eu/ "Colaboratorio").
