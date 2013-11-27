@@ -23,7 +23,7 @@ Please do not hesitate to [contact me](mailto:angelpontesgarcia@gmail.com "angel
 
 More info about the project in [angelpontes.net](http://pfc.angelpontes.net "angelpontes.net").
 
-<a href="http://pfc.angelpontes.net/" title="angelpontes.net"><img src="/IMAGES/LOGO.png" alt="LOGO" title="PROJECT LOGO"></a>
+<a href="http://pfc.angelpontes.net/" title="pfc.angelpontes.net"><img src="/IMAGES/LOGO.png" alt="LOGO" title="PROJECT LOGO"></a>
 
 
 ##  2. Construction system
@@ -39,7 +39,7 @@ For the purpose of 3D printing the system has been simplified. The resultant sca
 
 It is possible to print the default components (v1) but the system has also been designed with parametric settings. 
 
-> [Download here the Grasshopper definition](https://github.com/angelpontes/PFC/blob/master/PARAMETRIC%20DESIGN/HEX%20PARAMETRIC%20SYSTEM%20v1%20FOR%203D%20PRINTING%20IN%20MILLIMETERS.gh?raw=true "GH Sheet")
+> [Download here the Grasshopper definition](https://github.com/angelpontes/PFC/blob/master/PARAMETRIC%20DESIGN/HEX-PARAMETRIC-SYSTEM-v1_%20(3D-PRINT-IN-MILLIMETERS).gh?raw=true "GH Sheet")
 
 Opening the GH sheet with [Grasshopper for Rhino](http://www.grasshopper3d.com/ "Grasshopper for Rhino") allows to change the variable parameters in which the system is based to set up new possible configurations.
 
@@ -53,11 +53,11 @@ The defined model unit is millimeter.
 
 This is my first printing test:
 
-<a href="http://blog.angelpontes.net/post/68259941552/20131126-3d-print-colaboratorio" title="Blog"><img src="/IMAGES/3D-PRINT-TEST-v1.jpg" alt="TEST v1" title="TEST v1"></a>
+<a href="http://blog.angelpontes.net/post/68259941552/20131126-3d-print-colaboratorio" title="blog.angelpontes.net"><img src="/IMAGES/3D-PRINT-TEST-v1.jpg" alt="TEST v1" title="TEST v1"></a>
 
 ##  + Notes
 
-- ***Looking for a platform for open source design processes. Why GitHub?***
+- ***Looking for a platform for open source design processes. [Why GitHub?](http://blog.angelpontes.net/post/67517380745/20131120-github "blog.angelpontes.net"***
 
 Because it is **open**, straightforward and effective in promoting collaborative works. Although it is a platform optimized for code and programming, why not be used to carry out open source projects in other fields of work?
 
@@ -65,7 +65,7 @@ Because it is **open**, straightforward and effective in promoting collaborative
 
 For the purpose of the present project GitHub provides everything needed: file spreading and storage platform, version control, 3D model viewer for STL format and plain board for documentation. This could be an interesting way to implement work tasks in fields such as engineering, architecture and design, providing a useful and easily accessible tool for projects based on open source knowledge. Beyond simply habitual sharing via Dropbox, Google Drive or through cloud storage provided by proprietary software companies, highly visible online platforms like GitHub may be a demanded alternative.
 
-Even though such procedures and open work trends for *'tangible stuff'* are just beginning in the cloud, at the present time there are already some specific tools under development (such as [Sunglass](https://sunglass.io/ "Sunglass.io") or [Grabcad](http://grabcad.com/ "Grabcad.com")) and there were many others that can also be used with similar intentions (such as [Thingiverse](http://www.thingiverse.com/ "Thingiverse.com")). However, in this case I have chosen GitHub for its huge potential and high accessibility, because it is not necessary to be signed up to visualize repositories and in case of being interested in continue developing an existing work, it is fast and intuitive to generate new growth *'branches'* from the original project.
+Even though such procedures and open work trends for *'tangible stuff'* are just beginning in the cloud, at the present time there are already some specific tools under development (such as [Sunglass](https://sunglass.io/ "Sunglass.io") or [Grabcad](http://grabcad.com/ "Grabcad.com")) and there were many others that can also be used with similar intentions (such as [Thingiverse](http://www.thingiverse.com/ "Thingiverse.com"). However, in this case I have chosen GitHub for its huge potential and high accessibility, because it is not necessary to be signed up to visualize repositories and in case of being interested in continue developing an existing work, it is fast and intuitive to generate new growth *'branches'* from the original project.
 
 <br/>
 ***
