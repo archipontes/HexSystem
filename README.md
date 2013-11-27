@@ -21,9 +21,9 @@ It was also considered that this branch of the project should be based on the op
 
 Please do not hesitate to [contact me](mailto:angelpontesgarcia@gmail.com "angelpontesgarcia@gmail.com") for any issue.
 
-More info about the project in [angelpontes.net](http://pfc.angelpontes.net "angelpontes.net").
+More info about the project in [pfc.angelpontes.net](http://pfc.angelpontes.net "pfc.angelpontes.net").
 
-<a href="http://pfc.angelpontes.net/" title="pfc.angelpontes.net"><img src="/IMAGES/LOGO.png" alt="LOGO" title="PROJECT LOGO"></a>
+<a href="http://pfc.angelpontes.net/" title="pfc.angelpontes.net"><img src="/IMAGES/LOGO.png" alt="LOGO" title="pfc.angelpontes.net"></a>
 
 
 ##  2. Construction system
@@ -39,7 +39,7 @@ For the purpose of 3D printing the system has been simplified. The resultant sca
 
 It is possible to print the default components (v1) but the system has also been designed with parametric settings. 
 
-> [Download here the Grasshopper definition](https://github.com/angelpontes/PFC/blob/master/PARAMETRIC%20DESIGN/HEX-PARAMETRIC-SYSTEM-v1_%20(3D-PRINT-IN-MILLIMETERS).gh?raw=true "GH Sheet")
+> [Download here the Grasshopper definition](https://github.com/angelpontes/PFC/blob/master/PARAMETRIC%20DESIGN/HEX-PARAMETRIC-SYSTEM-v1_(3D-PRINT-IN-MILLIMETERS).gh?raw=true "GH Sheet")
 
 Opening the GH sheet with [Grasshopper for Rhino](http://www.grasshopper3d.com/ "Grasshopper for Rhino") allows to change the variable parameters in which the system is based to set up new possible configurations.
 
@@ -53,11 +53,11 @@ The defined model unit is millimeter.
 
 This is my first printing test:
 
-<a href="http://blog.angelpontes.net/post/68259941552/20131126-3d-print-colaboratorio" title="blog.angelpontes.net"><img src="/IMAGES/3D-PRINT-TEST-v1.jpg" alt="TEST v1" title="TEST v1"></a>
+<a href="http://blog.angelpontes.net/post/68259941552/20131126-3d-print-colaboratorio" title="blog.angelpontes.net"><img src="/IMAGES/3D-PRINT-TEST-v1.jpg" alt="Test v1" title="blog.angelpontes.net"></a>
 
 ##  + Notes
 
-- ***Looking for a platform for open source design processes. [Why GitHub?](http://blog.angelpontes.net/post/67517380745/20131120-github "blog.angelpontes.net"***
+- ***Looking for a platform for open source design processes. Why GitHub?***
 
 Because it is **open**, straightforward and effective in promoting collaborative works. Although it is a platform optimized for code and programming, why not be used to carry out open source projects in other fields of work?
 
