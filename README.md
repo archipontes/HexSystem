@@ -39,7 +39,7 @@ For the purpose of 3D printing the system has been simplified. The resultant sca
 
 It is possible to print the default components (v1) but the system has also been designed with parametric settings. 
 
-> [Download here the Grasshopper definition](https://github.com/angelpontes/PFC/blob/master/PARAMETRIC%20DESIGN/HEX-PARAMETRIC-SYSTEM-v1_(3D-PRINT-IN-MILLIMETERS).gh?raw=true "GH Sheet")
+> [Check here the Grasshopper definition](/PARAMETRIC DESIGN/ "GH Sheet")
 
 Opening the GH sheet with [Grasshopper for Rhino](http://www.grasshopper3d.com/ "Grasshopper for Rhino") allows to change the variable parameters in which the system is based to set up new possible configurations.
 
