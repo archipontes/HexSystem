@@ -51,7 +51,9 @@ Weaver Bird plugin for GH have to be installed to run the definition.
 
 The defined model unit is millimeter.
 
-<a href="http://pfc.angelpontes.net/" title="Blog"><img src="/IMAGES/3D-PRINT-TEST-v1.jpg" alt="TEST v1" title="TEST v1"></a>
+This is my first printing test:
+
+<a href="http://blog.angelpontes.net/post/68259941552/20131126-3d-print-colaboratorio" title="Blog"><img src="/IMAGES/3D-PRINT-TEST-v1.jpg" alt="TEST v1" title="TEST v1"></a>
 
 ##  + Notes
 
