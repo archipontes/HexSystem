@@ -70,9 +70,9 @@ Even though such procedures and open work trends for *'tangible stuff'* are just
 <br/>
 ***
 
-### LICENSE
+###LICENSE
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/ "CC-BY-NC-SA 3.0 License").
+Some rights reserved. This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0 International License").
 </p>
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="CC-BY-NC-SA 3.0 License" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png"/></a>
-<br/>*Ángel Pontes*<br/>*2013*
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/></a>
+<br/>*Ángel Pontes*<br/>*2014*
