@@ -67,12 +67,14 @@ For the purpose of the present project GitHub provides everything needed: file s
 
 Even though such procedures and open work trends for *'tangible stuff'* are just beginning in the cloud, at the present time there are already some specific tools under development (such as [Sunglass](https://sunglass.io/ "Sunglass.io") or [Grabcad](http://grabcad.com/ "Grabcad.com")) and there were many others that can also be used with similar intentions (such as [Thingiverse](http://www.thingiverse.com/ "Thingiverse.com"). However, in this case I have chosen GitHub for its huge potential and high accessibility, because it is not necessary to be signed up to visualize repositories and in case of being interested in continue developing an existing work, it is fast and intuitive to generate new growth *'branches'* from the original project.
 
-<br/>
 ***
 
-###LICENSE
+### LICENSE
+
+*2014*
+
+*Ángel Pontes*
+
+<img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" title="CC BY-NC-SA 4.0">
 
 Some rights reserved. This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0 International License").
-</p>
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/></a>
-<br/>*Ángel Pontes*<br/>*2014*
