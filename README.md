@@ -23,7 +23,7 @@ Please do not hesitate to [contact me](mailto:angelpontesgarcia@gmail.com "angel
 
 More info about the project in [pfc.angelpontes.net](http://pfc.angelpontes.net "pfc.angelpontes.net").
 
-<a href="http://pfc.angelpontes.net/" title="pfc.angelpontes.net"><img src="/IMAGES/LOGO.png" alt="LOGO" title="pfc.angelpontes.net"></a>
+<center><a href="http://pfc.angelpontes.net/" title="pfc.angelpontes.net"><img src="/IMAGES/LOGO.png" alt="LOGO" title="pfc.angelpontes.net"></a></center>
 
 
 ##  2. Construction system
@@ -53,7 +53,7 @@ The defined model unit is millimeter.
 
 This is my first printing test:
 
-<a href="http://blog.angelpontes.net/post/20131126-3d-print-colaboratorio" title="blog.angelpontes.net"><img src="/IMAGES/3D-PRINT-TEST-v1.jpg" alt="Test v1" title="blog.angelpontes.net"></a>
+<center><a href="http://blog.angelpontes.net/post/20131126-3d-print-colaboratorio" title="blog.angelpontes.net"><img src="/IMAGES/3D-PRINT-TEST-v1.jpg" alt="Test v1" title="blog.angelpontes.net"></a></center>
 
 ##  + Notes
 
