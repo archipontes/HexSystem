@@ -53,7 +53,7 @@ The defined model unit is millimeter.
 
 This is my first printing test:
 
-<a href="http://blog.angelpontes.net/post/68259941552/20131126-3d-print-colaboratorio" title="blog.angelpontes.net"><img src="/IMAGES/3D-PRINT-TEST-v1.jpg" alt="Test v1" title="blog.angelpontes.net"></a>
+<a href="http://blog.angelpontes.net/post/20131126-3d-print-colaboratorio" title="blog.angelpontes.net"><img src="/IMAGES/3D-PRINT-TEST-v1.jpg" alt="Test v1" title="blog.angelpontes.net"></a>
 
 ##  + Notes
 
