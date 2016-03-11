@@ -7,6 +7,6 @@ The assembly of these pieces build a set of 2x2 hexagonal *'umbrellas'* for a tw
 ###### 3. Hex Slab Floor (x4)
 ###### 4. Hex Roof Deck (x4)
 
-<a href="http://blog.angelpontes.net/post/68259941552/20131126-3d-print-colaboratorio" title="Blog"><img src="https://github.com/angelpontes/PFC/blob/master/IMAGES/3D-PRINT-TEST-v1.jpg?raw=true" alt="TEST v1" title="TEST v1"></a>
+<a href="http://angelpontes.eu/blog/3d-print-colaboratorio" title="blog.angelpontes.eu"><img src="https://github.com/angelpontes/PFC/blob/master/IMAGES/3D-PRINT-TEST-v1.jpg?raw=true" alt="TEST v1" title="TEST v1"></a>
 
 3D Printing with [RepRap Huxley](http://reprap.org/wiki/Huxley "reprap.org") in [Colaboratorio](http://colaboratorio.colaborativa.eu/ "Colaboratorio").
