@@ -1,6 +1,6 @@
 # PFC
 
-This is my way of sharing some of the work developed during the execution of the final degree project in Architecture (Proyecto Final de Carrera) necessary to graduate and become and Architect at the ETSA University of Seville (Escuela Técnica Superior de Arquitectura de Sevilla, Spain).
+This is my way of sharing some of the work developed during my studies in architecture at ETSA Seville (Escuela Técnica Superior de Arquitectura de Sevilla, Spain).
 
 
 ## INDEX
@@ -19,11 +19,11 @@ Although it is not required, I decided to carry out the fabrication of the modul
 
 It was also considered that this branch of the project should be based on the open source basis. This would allow other people interested in this line of research to implement further developments based on these foundations. Or maybe anyone can just simply take advantage of the work and print the scale construction system for testing or playing. In my opinion, this is a cool way of giving at least a bit of *'real'* use to the large workload required for the realization of a project of this nature.
 
-Please do not hesitate to [contact me](mailto:angelpontesgarcia@gmail.com "angelpontesgarcia@gmail.com") for any issue.
+Do not hesitate to [contact me](mailto:contact@angelpontes.eu "contact@angelpontes.eu") for any issue.
 
-More info about the project in [pfc.angelpontes.net](http://pfc.angelpontes.net "pfc.angelpontes.net").
+More info about the project in [angelpontes.eu](http://angelpontes.eu "http://angelpontes.eu/portfolio/miraflores-coworking/").
 
-<center><a href="http://pfc.angelpontes.net/" title="pfc.angelpontes.net"><img src="/IMAGES/LOGO.png" alt="LOGO" title="pfc.angelpontes.net"></a></center>
+<center><a href="http://angelpontes.eu/portfolio/miraflores-coworking/" title="angelpontes.eu"><img src="/IMAGES/LOGO.png" alt="LOGO" title="angelpontes.eu"></a></center>
 
 
 ##  2. Construction system
@@ -53,7 +53,7 @@ The defined model unit is millimeter.
 
 This is my first printing test:
 
-<center><a href="http://blog.angelpontes.net/post/20131126-3d-print-colaboratorio" title="blog.angelpontes.net"><img src="/IMAGES/3D-PRINT-TEST-v1.jpg" alt="Test v1" title="blog.angelpontes.net"></a></center>
+<center><a href="http://angelpontes.eu/blog/3d-print-colaboratorio" title="blog.angelpontes.eu"><img src="/IMAGES/3D-PRINT-TEST-v1.jpg" alt="Test v1" title="blog.angelpontes.eu"></a></center>
 
 ##  + Notes
 
